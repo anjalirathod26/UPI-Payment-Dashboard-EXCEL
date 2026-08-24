@@ -1,5 +1,11 @@
 # UPI Payment Dashboard
 
+## 📊 Excel Dashboard
+
+**Excel Workbook:** [UPI Payment Dashboard](https://docs.google.com/spreadsheets/d/1asA-1l-2j1YT0X4xXYo8SQEX3Uz9jQCE/edit?usp=sharing&ouid=108825329892180801559&rtpof=true&sd=true)
+
+> Click the link above to view or download the Excel workbook containing the complete UPI Payment Dashboard, analysis sheets, KPIs, and visualizations.
+
 ## 📊 Project Overview
 
 The **UPI Payment Dashboard** is an Excel-based data analysis and visualization project designed to analyze UPI transaction data.
@@ -125,38 +131,3 @@ Charts & Visualizations
 UPI Dashboard
           ↓
 Business Insights
-```
-
-## 💡 Business Insights
-
-The dashboard can help analyze:
-
-- Which UPI applications have the highest transaction activity.
-- Which states and cities generate the most transactions.
-- Which merchant categories contribute the highest transaction value.
-- Customer behavior across age groups and genders.
-- Frequently used payment methods.
-- Transaction success and failure patterns.
-- Cashback and transaction-fee distribution.
-- High-risk transaction patterns.
-- Potential fraudulent transactions.
-
-## 🚀 How to Use
-
-1. Open `UPI_payment_Dashboard.xlsx` in Microsoft Excel.
-2. Go to the `Raw_UPI_Data` sheet to inspect the source data.
-3. Review the KPI and analysis sheets.
-4. Open the `dashboard` sheet.
-5. Refresh Pivot Tables or calculations if required.
-6. Use available filters/slicers to analyze specific segments.
-7. Review the KPIs and charts to identify trends.
-
-## 📂 Project File
-
-**File:** `UPI_payment_Dashboard.xlsx`
-
-## 👨‍💻 Project Type
-
-**Data Analytics / Business Intelligence / Excel Dashboard**
-
-This project demonstrates practical skills in data analysis, Excel formulas, pivot tables, KPI development, data visualization, and dashboard creation.
